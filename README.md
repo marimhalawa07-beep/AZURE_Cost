@@ -127,13 +127,13 @@ Azure-Coast/
 
 | Member | Responsibility | Frontend Files | Backend Files |
 |:---:|---|---|---|
-| **Member 1** | 🔐 Authentication & Configuration | `login.html`<br>`register.html`<br>`js/auth.js` | `config/db.php`<br>`auth/login_action.php`<br>`auth/register_action.php`<br>`auth/logout_action.php` |
-| **Member 2** | 🏠 Home Page | `index.html`<br>`js/main.js` (Header & Footer) | — |
-| **Member 3** | ℹ️ About Page | `about.html` | — |
-| **Member 4** | 🏡 Chalets Listing | `chalets.html`<br>`js/chalets.js` | `chalets/get_chalets.php` |
-| **Member 5** | 🔎 Chalet Details | `chalet-details.html`<br>`js/chalet-details.js` | `chalets/get_chalet_details.php` |
-| **Member 6** | 📅 Booking System | `booking.html`<br>`js/booking.js` | `bookings/create_booking.php` |
-| **Member 7** | 📋 My Bookings | `my-bookings.html`<br>`js/my-bookings.js` | `bookings/get_my_bookings.php` |
+| **serag** | 🔐 Authentication & Configuration | `login.html`<br>`register.html`<br>`js/auth.js` | `config/db.php`<br>`auth/login_action.php`<br>`auth/register_action.php`<br>`auth/logout_action.php` |
+| **** | 🏠 Home Page | `index.html`<br>`js/main.js` (Header & Footer) | — |
+| **engy magdy** | ℹ️ About Page | `about.html` | — |
+| **eman naser** | 🏡 Chalets Listing | `chalets.html`<br>`js/chalets.js` | `chalets/get_chalets.php` |
+| **marim halawa** | 🔎 Chalet Details | `chalet-details.html`<br>`js/chalet-details.js` | `chalets/get_chalet_details.php` |
+| **belal** | 📅 Booking System | `booking.html`<br>`js/booking.js` | `bookings/create_booking.php` |
+| **abdallah** | 📋 My Bookings | `my-bookings.html`<br>`js/my-bookings.js` | `bookings/get_my_bookings.php` |
 
 <div dir="rtl" align="right">
 
