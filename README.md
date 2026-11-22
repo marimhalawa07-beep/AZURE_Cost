@@ -128,7 +128,7 @@ Azure-Coast/
 | Member | Responsibility | Frontend Files | Backend Files |
 |:---:|---|---|---|
 | **serag** | 🔐 Authentication & Configuration | `login.html`<br>`register.html`<br>`js/auth.js` | `config/db.php`<br>`auth/login_action.php`<br>`auth/register_action.php`<br>`auth/logout_action.php` |
-| **** | 🏠 Home Page | `index.html`<br>`js/main.js` (Header & Footer) | — |
+| **mohamed** | 🏠 Home Page | `index.html`<br>`js/main.js` (Header & Footer) | — |
 | **engy magdy** | ℹ️ About Page | `about.html` | — |
 | **eman naser** | 🏡 Chalets Listing | `chalets.html`<br>`js/chalets.js` | `chalets/get_chalets.php` |
 | **marim halawa** | 🔎 Chalet Details | `chalet-details.html`<br>`js/chalet-details.js` | `chalets/get_chalet_details.php` |
