@@ -1,0 +1,78 @@
+.about-main {
+  padding: 90px 8%;
+  background: #fcfbfa;
+}
+
+.about-resort {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 50px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 30px;
+  background: #e2e0e0;
+}
+
+.about-label {
+  margin-bottom: 16px;
+  color: #739287;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.about-copy h2 {
+  margin-bottom: 20px;
+  color: #243d36;
+  font-size: 36px;
+}
+
+.about-copy > p:not(.about-label) {
+  margin-bottom: 24px;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.about-photo {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 24px;
+}
+
+.about-button {
+  display: inline-block;
+  padding: 13px 22px;
+  border-radius: 30px;
+  background: #323634;
+  color: white;
+  font-weight: bold;
+}
+
+.about-button:hover {
+  background: #232524;
+}
+
+@media (max-width: 700px) {
+  .about-main {
+    padding: 55px 6%;
+  }
+
+  .about-resort {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 24px;
+  }
+
+  .about-copy h2 {
+    font-size: 30px;
+  }
+
+  .about-photo {
+    height: 270px;
+  }
+}
